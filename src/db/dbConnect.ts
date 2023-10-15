@@ -8,4 +8,5 @@ export default  async function dbConnect (uri:string ){
        throw new Error(error.message);
       } 
 
+      
 }
